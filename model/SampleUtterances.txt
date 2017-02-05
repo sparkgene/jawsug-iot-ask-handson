@@ -1,0 +1,6 @@
+getWeather what is todays forecast
+getWeather today's forecast
+
+getWeatherWithCity what is {city} forecast
+getWeatherWithCity {city} forecast
+getWeatherWithCity {city}

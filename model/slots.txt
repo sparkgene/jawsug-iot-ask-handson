@@ -1,0 +1,4 @@
+tokyo
+kobe
+seattle
+london

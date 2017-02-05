@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "getWeather",
+      "slots": []
+    },
+    {
+      "intent": "getWeatherWithCity",
+      "slots": [
+        {
+          "name": "city",
+          "type": "CITY_LIST"
+        }
+      ]
+    }
+  ]
+}
